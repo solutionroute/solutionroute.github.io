@@ -1,4 +1,4 @@
-# solutionroute projects
+# projects
 
 ## hugo-smorg
 
